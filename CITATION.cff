@@ -1,1 +1,17 @@
 
+
+cff-version: 1.2.0
+message: "If you use this research, please cite it."
+title: "Gender Gaps in Employment: A Comparative Analysis of Foreign-Born and Overall Working-Age Populations in Six European Countries, 2016–2025"
+authors:
+  - family-names: "John-Inieke"
+    given-names: "Enoh"
+    orcid: "https://orcid.org/0009-0004-2328-8796"
+type: dataset
+abstract: >
+  Independent quantitative research examining gender differences
+  in employment and unemployment among foreign-born and overall
+  working-age populations across six European countries.
+  The analysis uses secondary statistical data from Eurostat
+  covering 2016–2025.
+repository-code: "https://github.com/EnohInieke/european-gender-employment-analysis"
